@@ -5,5 +5,5 @@ def my_each(array)
     yield array[i]
     i += 1
   end #while
-  array
+  puts array([1,4,6,98])
 end
